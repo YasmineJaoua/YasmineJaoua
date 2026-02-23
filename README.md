@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6451313)
+## 🚀 TryHackMe
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
