@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🚀 TryHackMe
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6451313" style='border:none;'></iframe>
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
+<a href="https://tryhackme.com/p/yasmine.jaoua5526">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/yasmine.jaoua5526.png" alt="TryHackMe Badge" />
+</a>
