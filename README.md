@@ -12,7 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🚀 TryHackMe
-<a href="https://tryhackme.com/p/yasmine.jaoua5526">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/yasmine.jaoua5526.png" alt="TryHackMe Badge" />
-</a>
+## Hi, I'm Yasmine 👋
+
+🎓 Telecommunications Engineering Student at ENET'Com, Tunisia
+
+I'm interested in telecommunications, ML and cybersecurity. I enjoy building practical projects and learning how technologies work from the fundamentals.
+
+🛠️ Technical Interests & Skills
+📡 Telecommunications & Computer Networks
+🌐 FTTH & Optical Fiber
+🐍 Python
+🗄️ SQL , mongoDB , pinecone 
+🐧 Linux
+💻 HTML, CSS & JavaScript
+⚛️ React & Flask
+📊 Data Analysis & Machine Learning
+🤖 AI & LLM Applications
+🔧 Git & GitHub
